@@ -38,6 +38,8 @@
 ![Electric Feel by MGMT](assets/Electric_Feel_by_MGMT.jpeg)
 -Kiss by Prince
 ![Kiss by Prince](assets/Kiss_by_Prince.jpeg)
+-Money Trees by Kendrick Lamar
+![Money Trees by Kendrick Lamar](assets/Money_Trees_by_Kendrick_Lamar.jpeg)
 
 ---
 
