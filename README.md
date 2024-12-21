@@ -1,5 +1,5 @@
 # Resonance - AI Improvisation Partner 🎶🎨  
-*Create. Jam. Evolve.*
+*Create. Groove. Evolve.*
 
 ## WHITE PAPER
 
