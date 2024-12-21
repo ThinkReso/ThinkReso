@@ -35,6 +35,11 @@
 - 📚 **Learners**: Practice and learn with an AI creative partner.  
 
 ---
+## Examples
+-One More Time by Daft Punk 
+![One More Time by Daft Punk](assets/One_More_Time_by_Daft_Punk.jpeg)
+
+---
 
 ## Getting Started  
 ### Prerequisites  
