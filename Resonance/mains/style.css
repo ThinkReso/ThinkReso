@@ -1,5 +1,9 @@
 /* Global Styles */
 body {
+    background-color: black;
+    color: white;  /* This changes the text color to white for better contrast */
+}
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
