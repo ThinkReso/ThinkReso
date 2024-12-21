@@ -36,6 +36,8 @@
 ## Examples
 -Electric Feel by MGMT
 ![Electric Feel by MGMT](assets/Electric_Feel_by_MGMT.jpeg)
+-Kiss by Prince
+![Kiss by Prince](assets/Kiss_by_Prince.jpeg)
 
 ---
 
