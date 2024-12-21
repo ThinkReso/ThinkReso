@@ -1,11 +1,12 @@
 /* Global Styles */
-body {
+body, html { /* Apply to both body and html to cover full screen */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background-color: #000; /* Set background to black */
     color: #fff; /* Default text color to white */
+    height: 100%; /* Ensure it covers the full height */
 }
 
 /* Header Styles */
