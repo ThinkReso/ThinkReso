@@ -33,7 +33,10 @@
 - 📚 **Learners**: Practice and learn with an AI creative partner.  
 
 ---
+
 ## Examples
+-Pool Party Music by Mall Grab
+![Pool Party Music by Mall Grab](assets/Pool_Party_Music_by_Mall_Grab.jpeg)
 -Electric Feel by MGMT
 ![Electric Feel by MGMT](assets/Electric_Feel_by_MGMT.jpeg)
 -Kiss by Prince
