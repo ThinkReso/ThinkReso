@@ -5,6 +5,8 @@
 
 ## Overview  
 **Resonance** is an interactive AI designed to collaborate with musicians and visual artists in real-time. It improvises melodies, harmonies, or design elements to complement your creative flow, acting as an adaptable and inspiring creative partner.
+![One More Time by Daft Punk](assets/one_more_time_by_daft_punk.jpeg)
+
 ---
 
 ## Features  
